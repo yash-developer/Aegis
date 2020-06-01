@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#eaeaea">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/police"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Police Assistance"
+            android:textSize="30sp"
+            android:textColor="#fff"
+            android:theme="@style/PoliceRaisedButton"
+            android:elevation="8dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"/>
+
+        <Button
+            android:id="@+id/medical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Medical Assistance"
+            android:layout_gravity="center"
+            android:textSize="30sp"
+            android:textColor="#fff"
+            android:theme="@style/MedicalRaisedButton"
+            android:elevation="8dp"
+            android:layout_marginBottom="20dp"/>
+
+        <Button
+            android:id="@+id/firebrigade"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fire Brigade"
+            android:layout_gravity="center"
+            android:textSize="30sp"
+            android:textColor="#fff"
+            android:theme="@style/FireRaisedButton"
+            android:elevation="8dp"
+            android:layout_marginBottom="20dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747965298879",
+    "firebase_url": "https://aegis-48a06.firebaseio.com",
+    "project_id": "aegis-48a06",
+    "storage_bucket": "aegis-48a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747965298879:android:4296af40cbc719ca",
+        "android_client_info": {
+          "package_name": "aegis.silverwing.com.aegis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747965298879-ebcsk7oudvu5sfar4a4fa08lc7paogn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aegis.silverwing.com.aegis",
+            "certificate_hash": "f618e3357bb5458b33645659b489b2c817dc2dc2"
+          }
+        },
+        {
+          "client_id": "747965298879-h24lv75dju28e0v40ok971635c5hsjnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuBqV36WwWs9BsGxI2Hc2z65zBlKWwbwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747965298879-h24lv75dju28e0v40ok971635c5hsjnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
